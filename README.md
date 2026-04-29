@@ -83,7 +83,7 @@ Additional processing:
   * Demographics
   * Incident type
  
-3.4 Data Validation and Testing
+### 3.4 Data Validation and Testing
 
 To ensure reliability and alignment with business requirements, multiple validation steps were implemented:
 
@@ -95,7 +95,7 @@ Created structured datasets to support testing and downstream analysis
 
 This process ensured that all analytical outputs accurately reflected underlying business realities.
 
-3.5 Business Translation Layer
+### 3.5 Business Translation Layer
 
 The analysis was structured to bridge business needs and technical implementation:
 
