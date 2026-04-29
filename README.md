@@ -82,6 +82,27 @@ Additional processing:
   * Geography
   * Demographics
   * Incident type
+ 
+3.4 Data Validation and Testing
+
+To ensure reliability and alignment with business requirements, multiple validation steps were implemented:
+
+Verified consistency between raw claim data and aggregated outputs
+Validated loss ratio calculations across segments (age, region, incident type)
+Performed reconciliation between transformed datasets and source data
+Identified and corrected anomalies in claim and premium values
+Created structured datasets to support testing and downstream analysis
+
+This process ensured that all analytical outputs accurately reflected underlying business realities.
+
+3.5 Business Translation Layer
+
+The analysis was structured to bridge business needs and technical implementation:
+
+Translated financial loss problems into measurable KPIs
+Defined risk segments based on demographic and behavioral patterns
+Mapped operational issues (fraud, pricing inefficiencies) into data models
+Developed analytical outputs aligned with decision-making use cases
 
 ---
 
